@@ -14,3 +14,6 @@ print(f"you live in {city} enjoys {hobbies}.")
 # asking for age
 age = int(input("how old are you?"))
 print(f"next year, you will be {age + 1}years old.")
+
+# this is a code for asking about users information, help yourself to it
+
